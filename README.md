@@ -1,1 +1,1 @@
-Building a simple portscanner in Go, learning the fundamentals of the language.
+Building a simple portscanner in Go to learn the fundamentals of the language.
